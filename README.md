@@ -1,4 +1,5 @@
 # cource_paper_machine_learning_on_graps
+```
 import requests
 from bs4 import BeautifulSoup
 
@@ -404,5 +405,5 @@ max_degree_node = max(node_degree, key=node_degree.get)
 max_degree = node_degree[max_degree_node]
 
 print(f"Узел с максимальной исходящей степенью: {max_degree_node}, степень: {max_degree}")
-
+```
 
